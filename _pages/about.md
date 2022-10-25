@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Deep Learning enthusiast, working hard to bring you a safe and smart <a href='https://en.wikipedia.org/wiki/Artificial_intelligence'>AI</a>.
+subtitle: Deep Learning addict </a>.
 
 profile:
   align: right
