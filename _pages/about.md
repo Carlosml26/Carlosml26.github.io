@@ -6,7 +6,7 @@ subtitle: Deep Learning enthusiast, working hard to bring you a safe and smart <
 
 profile:
   align: right
-  image: caesar.png
+  image: prof_pic.jpg
   address: 
 
 news: true  # includes a list of news items
@@ -16,8 +16,8 @@ social: false  # includes social icons at the bottom of the page
 
 Hi! :wave:
 
-I'm a second-year PhD student at the [Sapienza Natural Language Processing group](http://nlp.uniroma1.it/), advised by [Roberto Navigli](https://www.diag.uniroma1.it/navigli/). My main research focuses on Sentiment Analysis and Entity Linking. 
+I'm Carlos, a third-year PhD student at the [Sapienza Natural Language Processing group](http://nlp.uniroma1.it/), advised by [Roberto Navigli](https://www.diag.uniroma1.it/navigli/) and an Early Stage Researcher (ESR) at [Babelscape](https://babelscape.com/) under the [Marie Skłodowska-Curie grant](https://marie-sklodowska-curie-actions.ec.europa.eu/) in the [Knograph project](https://knowgraphs.eu/) - European Union’s Horizon 2020 research and innovation programme.
 
-I don't remember a day in which I was not passionate about computer science and, even more, all its implications. My interests have ranged from programming to graphics, through web development, even video editing, finally leading to artificial intelligence. I assure that this is my final interest... Well, maybe!
+My main research focuses on Multilingual and Cross-lingual semantics, specifically on Semantic Parsing and Natural Language Generation. 
 
-I like to teach machines how to [understand](https://en.wikipedia.org/wiki/Natural-language_understanding) human language. The core idea is to help people in their work and create new opportunities.
+I am graduated in Software Engineering by [Universidad de Málaga](https://www.uma.es/) in Spain and I pursued the [Erasmus Mundus Joint Master Degree Programme in Big Data Management and Analytics (BDMA)](https://bdma.ulb.ac.be/), a jointly degree delivered by [Université Libre de Bruxelles (ULB)](https://www.ulb.be/en) in Belgium, [Universitat Politècnica de Catalunya (UPC)](https://www.upc.edu/en) in Spain and [Technische Universität Berlin (TU-Berlin)](https://www.tu.berlin/en/) in Germany.
