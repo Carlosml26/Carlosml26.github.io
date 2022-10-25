@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2022-03-15
+date: 2021-10-15
 inline: true
 ---
 
-Long paper accepted at ACL 2022: "[SRL4E - Semantic Role Labeling for Emotions: A Unified Evaluation Framework](https://aclanthology.org/2022.acl-long.314/)". See you in Dublin!
+Short paper accepted at AAAI 2022: "[BabelNet Meaning Representation: A Fully Semantic Formalism to Overcome Language Barriers
+]([https://aclanthology.org/2022.acl-long.314/](https://ojs.aaai.org/index.php/AAAI/article/view/21490)". See you in Dublin!
