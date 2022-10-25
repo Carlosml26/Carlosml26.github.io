@@ -2,6 +2,18 @@
   - firstname: ["Roberto", "R."]
     url: https://scholar.google.com/citations?user=BsgVJ-EAAAAJ
 
+"Carlos":
+  - firstname: ["Abelardo Carlos"]
+    url: https://scholar.google.it/citations?user=hRQS9fIAAAAJ
+
+"Marco":
+  - firstname: ["Marco"]
+    url: https://scholar.google.is/citations?user=V5wuyl0AAAAJ
+
+"Rexhina":
+  - firstname: ["Rexhina"]
+    url: https://scholar.google.it/citations?user=DcviB6QAAAAJ
+    
 "Conia":
   - firstname: ["Simone", "S."]
     url: https://scholar.google.com/citations?user=S1tqbTcAAAAJ
