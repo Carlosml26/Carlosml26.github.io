@@ -2,20 +2,22 @@
 layout: about
 title: about
 permalink: /
-description: # Sapienza University of Rome. Department of Computer Science
+subtitle: Deep Learning enthusiast, working hard to bring you a safe and smart <a href='https://en.wikipedia.org/wiki/Artificial_intelligence'>AI</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: caesar.png
   address: 
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
-Hi! I am Carlos, a third year PhD student in the [Sapienza Natural Language Processing Group](http://nlp.uniroma1.it/) led by prof. [Roberto Navigli](http://wwwusers.di.uniroma1.it/~navigli/) and an Early Stage Researcher (ESR) at [Babelscape](https://babelscape.com/) in the [EU Knowgraphs project](https://knowgraphs.eu/) under the Marie Skłodowska-Curie grant. 
+Hi! :wave:
 
-I am interested in Multilingual and Cross-lingual semantics, especially Semantic Parsing and Natural Language Generation.
+I'm a second-year PhD student at the [Sapienza Natural Language Processing group](http://nlp.uniroma1.it/), advised by [Roberto Navigli](https://www.diag.uniroma1.it/navigli/). My main research focuses on Sentiment Analysis and Entity Linking. 
 
-I am graduated in Software Engineering by the [University of Malaga(UMA)](https://www.uma.es/?set_language=en) and I completed the [Erasmus Mundus Joint Master Degree Programme in Big Data Management and Analytics (BDMA)](https://bdma.ulb.ac.be/), that it is jointly delivered by [Université Libre de Bruxelles (ULB)](https://www.ulb.be/en) in Belgium, [Universitat Politècnica de Catalunya (UPC)](https://www.upc.edu/en) in Spain and [Technische Universität Berlin (Tu-Berlin)](https://www.tu.berlin/en/) in Germany.
+I don't remember a day in which I was not passionate about computer science and, even more, all its implications. My interests have ranged from programming to graphics, through web development, even video editing, finally leading to artificial intelligence. I assure that this is my final interest... Well, maybe!
+
+I like to teach machines how to [understand](https://en.wikipedia.org/wiki/Natural-language_understanding) human language. The core idea is to help people in their work and create new opportunities.
