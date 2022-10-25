@@ -2,24 +2,20 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+description: # Sapienza University of Rome. Department of Computer Science
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address: 
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I am Carlos, a third year PhD student in the [Sapienza Natural Language Processing Group](http://nlp.uniroma1.it/) led by prof. [Roberto Navigli](http://wwwusers.di.uniroma1.it/~navigli/) and an Early Stage Researcher (ESR) at [Babelscape](https://babelscape.com/) in the [EU Knowgraphs project](https://knowgraphs.eu/) under the Marie Skłodowska-Curie grant. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am interested in Multilingual and Cross-lingual semantics, especially Semantic Parsing and Natural Language Generation.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am graduated in Software Engineering by the [University of Malaga(UMA)](https://www.uma.es/?set_language=en) and I completed the [Erasmus Mundus Joint Master Degree Programme in Big Data Management and Analytics (BDMA)](https://bdma.ulb.ac.be/), that it is jointly delivered by [Université Libre de Bruxelles (ULB)](https://www.ulb.be/en) in Belgium, [Universitat Politècnica de Catalunya (UPC)](https://www.upc.edu/en) in Spain and [Technische Universität Berlin (Tu-Berlin)](https://www.tu.berlin/en/) in Germany.
