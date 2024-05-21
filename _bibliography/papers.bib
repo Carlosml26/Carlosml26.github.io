@@ -1,5 +1,57 @@
+
+@inproceedings{martinez-lorenzo-etal-2024-acl,
+    title = "{Mitigating Data Scarcity in Cross-lingual Semantic Parsing: the Multilingual Semantic Layer and its Dataset}",
+    abbr = {ACL},
+    author = "Mart{\'\i}nez Lorenzo, Abelardo Carlos  and
+      Huguet Cabot, Pere Llu{\'\i}s  and
+      Ghonim, Karim  and
+      Xu, Lu  and
+      Choi, Hee-Soo  and
+      Fernandez Castro, Alberte  and
+      Navigli, Roberto",
+    editor = "",
+    booktitle = "",
+    month = jul,
+    year = "2023",
+    address = "Bangkok, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "",
+    pdf = "",
+    doi = "10.18653/v1/2023.acl-short.137",
+    pages = "",
+    abstract = "",
+}
+
+@inproceedings{martinez-lorenzo-etal-2024-naacl,
+    title = "{MOSAICo: A Multilingual Open-text Semantically Annotated Interlinked Corpus}",
+    abbr = {NAACL},
+    author = "Conia, Simone and
+      Barba, Edoardo and
+      Mart{\'\i}nez Lorenzo, Abelardo Carlos  and
+      Huguet Cabot, Pere Llu{\'\i}s  and
+      Orlando, Riccardo and, 
+      Procopio, Luigi and, 
+      Navigli, Roberto",
+    editor = "Rogers, Anna  and
+      Boyd-Graber, Jordan  and
+      Okazaki, Naoaki",
+    booktitle = "2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics",
+    month = jul,
+    year = "2023",
+    address = "Mexico city, Canada",
+    publisher = "North American Association for Computational Linguistics",
+    url = "",
+    pdf = "",
+    doi = "",
+    pages = "",
+    abstract = "",
+}
+
+
+
 @inproceedings{martinez-lorenzo-navigli-2024-efficient-amr,
     title = "Efficient {AMR} Parsing with {CLAP}: Compact Linearization with an Adaptable Parser",
+    abbr = {LREC-COLING},
     author = "Martinez Lorenzo, Abelardo Carlos  and
       Navigli, Roberto",
     editor = "Calzolari, Nicoletta  and
@@ -14,12 +66,14 @@
     address = "Torino, Italy",
     publisher = "ELRA and ICCL",
     url = "https://aclanthology.org/2024.lrec-main.495",
+    pdf = "https://aclanthology.org/2024.lrec-main.495",
     pages = "5578--5584",
     abstract = "Sequence-to-sequence models have become the de facto standard for Abstract Meaning Representation (AMR) parsing due to their high-quality performance. However, these systems face efficiency challenges because of their large model size and computational time, which limit their accessibility within the research community. This paper aims to break down these barriers by introducing a novel linearization and system that significantly enhances the efficiency and accessibility of previous AMR parsers. First, we propose our novel Compact linearization that simplifies encoding, thereby reducing the number of tokens by between 40{\%} and 50{\%}. Second, we present CLAP, an innovative modular system that maintains the model{'}s high performance while achieving remarkable 80{\%} reduction in training and inference times. Furthermore, CLAP is compatible with multiple autoregressive Language Models (LM) and tokenizers, such as BART, T5, and others. These advancements underscore the importance of optimizing sequence-to-sequence models in AMR parsing, thus democratizing access to high-quality semantic analysis. Our code is publicly available at https://github.com/SapienzaNLP/clap/.",
 }
 
 @inproceedings{martinez-lorenzo-etal-2023-amrs,
     title = "{AMR}s Assemble! Learning to Ensemble with Autoregressive Models for {AMR} Parsing",
+    abbr = {ACL},
     author = "Mart{\'\i}nez Lorenzo, Abelardo Carlos  and
       Huguet Cabot, Pere Llu{\'\i}s  and
       Navigli, Roberto",
@@ -32,6 +86,7 @@
     address = "Toronto, Canada",
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2023.acl-short.137",
+    pdf = "https://aclanthology.org/2023.acl-short.137",
     doi = "10.18653/v1/2023.acl-short.137",
     pages = "1595--1605",
     abstract = "In this paper, we examine the current state-of-the-art in AMR parsing, which relies on ensemble strategies by merging multiple graph predictions. Our analysis reveals that the present models often violate AMR structural constraints. To address this issue, we develop a validation method, and show how ensemble models can exploit SMATCH metric weaknesses to obtain higher scores, but sometimes result in corrupted graphs. Additionally, we highlight the demanding need to compute the SMATCH score among all possible predictions. To overcome these challenges, we propose two novel ensemble strategies based on Transformer models, improving robustness to structural constraints, while also reducing the computational time. Our methods provide new insights for enhancing AMR parsers and metrics. Our code is available at [\url{https://www.github.com/babelscape/AMRs-Assemble}](\url{https://www.github.com/babelscape/AMRs-Assemble}).",
@@ -39,6 +94,7 @@
 
 @inproceedings{vasylenko-etal-2023-incorporating,
     title = "Incorporating Graph Information in Transformer-based {AMR} Parsing",
+    abbr = {ACL},
     author = "Vasylenko, Pavlo  and
       Huguet Cabot, Pere Llu{\'\i}s  and
       Mart{\'\i}nez Lorenzo, Abelardo Carlos  and
@@ -52,6 +108,7 @@
     address = "Toronto, Canada",
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2023.findings-acl.125",
+    pdf = "https://aclanthology.org/2023.findings-acl.125",
     doi = "10.18653/v1/2023.findings-acl.125",
     pages = "1995--2011",
     abstract = "Abstract Meaning Representation (AMR) is a Semantic Parsing formalism that aims at providing a semantic graph abstraction representing a given text. Current approaches are based on autoregressive language models such as BART or T5, fine-tuned through Teacher Forcing to obtain a linearized version of the AMR graph from a sentence. In this paper, we present LeakDistill, a model and method that explores a modification to the Transformer architecture, using structural adapters to explicitly incorporate graph information into the learned representations and improve AMR parsing performance. Our experiments show how, by employing word-to-node alignment to embed graph structural information into the encoder at training time, we can obtain state-of-the-art AMR parsing through self-knowledge distillation, even without the use of additional data. We release the code at [\url{http://www.github.com/sapienzanlp/LeakDistill}](\url{http://www.github.com/sapienzanlp/LeakDistill}).",
@@ -59,6 +116,7 @@
 
 @inproceedings{martinez-lorenzo-etal-2023-cross,
     title = "Cross-lingual {AMR} Aligner: Paying Attention to Cross-Attention",
+    abbr = {ACL},
     author = "Mart{\'\i}nez Lorenzo, Abelardo Carlos  and
       Huguet Cabot, Pere Llu{\'\i}s  and
       Navigli, Roberto",
@@ -71,6 +129,7 @@
     address = "Toronto, Canada",
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2023.findings-acl.109",
+    pdf = "https://aclanthology.org/2023.findings-acl.109",
     doi = "10.18653/v1/2023.findings-acl.109",
     pages = "1726--1742",
     abstract = "This paper introduces a novel aligner for Abstract Meaning Representation (AMR) graphs that can scale cross-lingually, and is thus capable of aligning units and spans in sentences of different languages. Our approach leverages modern Transformer-based parsers, which inherently encode alignment information in their cross-attention weights, allowing us to extract this information during parsing. This eliminates the need for English-specific rules or the Expectation Maximization (EM) algorithm that have been used in previous approaches. In addition, we propose a guided supervised method using alignment to further enhance the performance of our aligner. We achieve state-of-the-art results in the benchmarks for AMR alignment and demonstrate our aligner{'}s ability to obtain them across multiple languages. Our code will be available at [\url{https://www.github.com/babelscape/AMR-alignment}](\url{https://www.github.com/babelscape/AMR-alignment}).",
