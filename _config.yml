@@ -6,17 +6,17 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Abelardo Carlos
 middle_name:
 last_name: Martínez Lorenzo
-email: martinez@di.uniroma1.it
+email: abelardomartinezlorenzo@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Hi! My name is Cesare Campagnano, welcome to my webpage!
+  Research profile of Abelardo Carlos Martínez Lorenzo, Lead AI Scientist working on NLP, semantic parsing, LLM systems, and multilingual language technologies.
 footer_text: >
-  Proudly powered by <a href="https://carlos.malaga/" target="_blank">carlos.malaga</a>.
-keywords: Abelardo-Carlos-Martinez-Lorenzo, nlp, natural-language-processing, deep-learning, semantic-parsing, natural-language-generation  # add your own keywords or leave empty
+  Research profile and publications of Abelardo Carlos Martínez Lorenzo.
+keywords: Abelardo-Carlos-Martinez-Lorenzo, nlp, natural-language-processing, deep-learning, semantic-parsing, large-language-models, multilingual-nlp, information-extraction  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🙄 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://carlos.malaga # the base hostname & protocol for your site
+url: https://carlosml26.github.io # the base hostname & protocol for your site
 baseurl: #/al-folio # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -53,9 +53,9 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: Carlosml26 # your GitHub user name
+github_username: CarlosML26 # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: CarlosMalaga26 # your Twitter handle
+twitter_username: # your Twitter handle
 linkedin_username: carlosml26 # your LinkedIn user name
 scholar_userid: hRQS9fIAAAAJ # your Google Scholar ID
 orcid_id: # your ORCID ID
@@ -64,7 +64,7 @@ quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: Abelardo-Martinez-Lorenzo # your profile on ResearchGate
 blogger_url: # your blogger URL
-work_url: http://nlp.uniroma1.it # work page URL
+work_url: https://www.worldbank.org/en/about/unit/unit-dec/impactevaluation/ai/impact-ai # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
@@ -202,8 +202,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Campagnano
-  first_name: [Cesare, C.]
+  last_name: Martínez Lorenzo
+  first_name: [Abelardo Carlos, Abelardo, A. C.]
 
   style: apa
   locale: en

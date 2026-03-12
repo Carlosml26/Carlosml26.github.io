@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Deep Learning addict </a>.
+subtitle: Lead AI Scientist working on NLP, semantic parsing, and LLM systems.
 
 profile:
   align: right
@@ -16,8 +16,10 @@ social: false  # includes social icons at the bottom of the page
 
 Hi! :wave:
 
-I'm Abelardo Carlos, a postdoctoral researcher in the [Sapienza Natural Language Processing group](http://nlp.uniroma1.it/), under the guidance of [Roberto Navigli](https://www.diag.uniroma1.it/navigli/). I pursued my Ph.D. in Natural Language Processing, holding a position as an Early Stage Researcher under the prestigious [Marie Skłodowska-Curie grant](https://marie-sklodowska-curie-actions.ec.europa.eu/) in the [Knograph project](https://knowgraphs.eu/) - European Union’s Horizon 2020 research and innovation programme.
+I'm Abelardo Carlos Martínez Lorenzo, a Lead AI Scientist at the [World Bank's ImpactAI initiative](https://www.worldbank.org/en/about/unit/unit-dec/impactevaluation/ai/impact-ai). My work focuses on NLP, semantic parsing, multilingual language technologies, information extraction, and LLM-based systems for high-impact research and policy applications.
 
-My main research focuses on Cross-lingual semantics and Information Extraction, specifically on Semantic Parsing and Language Models. 
+Previously, I worked as an NLP researcher at [Sapienza NLP](http://nlp.uniroma1.it/) and [Babelscape](https://babelscape.com/), where I focused on cross-lingual semantics, AMR parsing, multilingual semantic representations, and structured meaning annotation. I completed my Ph.D. in Natural Language Processing at Sapienza University of Rome as a Marie Skłodowska-Curie fellow within the [KnowGraphs](https://knowgraphs.eu/) project.
 
-I am graduated in Software Engineering by [Universidad de Málaga](https://www.uma.es/) in Spain and I pursued the [Erasmus Mundus Joint Master Degree Programme in Big Data Management and Analytics (BDMA)](https://bdma.ulb.ac.be/), a jointly degree delivered by [Université Libre de Bruxelles (ULB)](https://www.ulb.be/en) in Belgium, [Universitat Politècnica de Catalunya (UPC)](https://www.upc.edu/en) in Spain and [Technische Universität Berlin (TU-Berlin)](https://www.tu.berlin/en/) in Germany.
+My current research and engineering interests include agentic AI systems, retrieval and evidence synthesis, domain-specific LLMs, semantic parsing, and scalable ML infrastructure on GCP.
+
+I hold a degree in Software Engineering from [Universidad de Málaga](https://www.uma.es/) and an [Erasmus Mundus Joint Master Degree in Big Data Management and Analytics (BDMA)](https://bdma.ulb.ac.be/), delivered jointly by [Université Libre de Bruxelles (ULB)](https://www.ulb.be/en), [Universitat Politècnica de Catalunya (UPC)](https://www.upc.edu/en), and [Technische Universität Berlin](https://www.tu.berlin/en/).
