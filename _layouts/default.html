@@ -1,12 +1,26 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang }}">
 
+  {%- assign redirect_target = nil -%}
+  {%- if page.redirect -%}
+    {%- if page.redirect == true -%}
+      {%- assign redirect_target = site.baseurl | prepend: site.url | append: '/' -%}
+    {%- elsif page.redirect contains '://' -%}
+      {%- assign redirect_target = page.redirect -%}
+    {%- else -%}
+      {%- assign redirect_target = page.redirect | absolute_url -%}
+    {%- endif -%}
+  {%- endif -%}
+
   <!-- Head -->
   <head>
-  {%- if page.redirect -%}
-    <meta http-equiv="refresh" content="3; url={{ site.baseurl | prepend: site.url }}/" />
+  {%- if redirect_target -%}
+    <meta http-equiv="refresh" content="0; url={{ redirect_target }}" />
+    <script>
+      window.location.replace({{ redirect_target | jsonify }});
+    </script>
   {%- endif -%}
-  {% include head.html %}
+  {% include head.html redirect_target=redirect_target %}
   </head>
 
   <!-- Body -->

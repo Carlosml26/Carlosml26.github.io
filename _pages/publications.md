@@ -1,18 +1,8 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
-description: Selected conference publications
-years: [2024, 2023, 2022]
-nav: true
-nav_order: 3
+title: Redirecting
+description: Redirecting to the publications page on the new personal website.
+redirect: https://www.abelardocarlos.com/publications
 ---
-<!-- _pages/publications.md -->
-<div class="publications">
-
-{%- for y in page.years %}
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[year={{y}}]* %}
-{% endfor %}
-
-</div>
+<p>Publications have moved to <a href="https://www.abelardocarlos.com/publications">www.abelardocarlos.com/publications</a>.</p>
