@@ -1,4 +1,4 @@
 User-agent: *
-Disallow:
+Allow: /
 
-Sitemap: https://carlos.malaga/sitemap.xml
+Sitemap: https://www.abelardocarlos.com/sitemap.xml
